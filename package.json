@@ -1,0 +1,14 @@
+{
+  "urls": [
+    ["seesaw/__init__.py", "github:mchobby/micropython-seesaw/lib/seesaw/__init__.py"],
+    ["seesaw/_seesaw.py", "github:mchobby/micropython-seesaw/lib/seesaw/_seesaw.py"],
+    ["seesaw/attiny8x7.py", "github:mchobby/micropython-seesaw/lib/seesaw/attiny8x7.py"],
+    ["seesaw/attinyx16.py", "github:mchobby/micropython-seesaw/lib/seesaw/attinyx16.py"],
+    ["seesaw/samd09.py", "github:mchobby/micropython-seesaw/lib/seesaw/samd09.py"],
+    ["seesaw/crickit.py", "github:mchobby/micropython-seesaw/lib/seesaw/crickit.py"],
+    ["seesaw/keypad.py", "github:mchobby/micropython-seesaw/lib/seesaw/keypad.py"],
+    ["seesaw/neopixel.py", "github:mchobby/micropython-seesaw/lib/seesaw/neopixel.py"],
+    ["adafruit_pixelbuf.py", "github:adafruit/Adafruit_CircuitPython_Pixelbuf/adafruit_pixelbuf.py"]
+  ],
+  "version": "1.0"
+}
