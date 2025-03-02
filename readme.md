@@ -12,7 +12,7 @@ Thanks to the __Plateform Agnostic Approach__ this library should work with any 
 
 ## Credit
 
-[https://www.adafruit.com/search?q=seesaw SeeSaw is brand from Adafruit Industries] designed to work with CircuitPython, Wiring (Arduino) and Python.
+[SeeSaw is brand from Adafruit Industries](https://www.adafruit.com/search?q=seesaw) designed to work with CircuitPython, Wiring (Arduino) and Python.
 
 This repository is based on [Adafruit Seesaw for CircuitPython](https://github.com/adafruit/Adafruit_CircuitPython_seesaw/blob/main/adafruit_seesaw/seesaw.py) (_GitHub, AdaFruit, English_).
 
@@ -51,7 +51,9 @@ mpremote mip install github:mchobby/micropython-seesaw
 
 ## About install.sh
 
-I do use the `install.sh` bash script to quickly copy the seesaw library (under test) from my computer my micropython board.
+The `install.sh` bash script is used to quickly copy the seesaw library (under test) from the computer to the micropython board.
+
+Its main usage concerns code/script testing.
 
 # Testing
 
