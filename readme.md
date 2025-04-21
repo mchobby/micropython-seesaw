@@ -18,10 +18,10 @@ This repository is based on [Adafruit Seesaw for CircuitPython](https://github.c
 
 ## Supported sub-modules
 
-Seesaw includes many modules in the library. The initial portage includes `keypad.py` and `neopixel.py` because it was for for [micropython-neotrellis](https://github.com/mchobby/micropython-neotrellis) .
+Seesaw includes many modules in the library. The initial portage includes `keypad.py` and `neopixel.py` because they were required for [micropython-neotrellis](https://github.com/mchobby/micropython-neotrellis) implementation.
 
-* keypad.py
-* neopixel.py
+* __keypad.py__ : see [micropython-neotrellis](https://github.com/mchobby/micropython-neotrellis) for example.
+* __neopixel.py__ : see [micropython-neotrellis](https://github.com/mchobby/micropython-neotrellis) for example.
 
 ## Documentation
 
